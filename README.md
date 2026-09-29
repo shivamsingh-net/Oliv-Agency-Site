@@ -26,11 +26,11 @@ No frameworks, just plain HTML and CSS.
 
 ## Live demo
 
-Not deployed yet. Will add the GitHub Pages link here once it's up.
+https://shivamsingh-net.github.io/Oliv-Agency-Site/
 
 ## Preview
 
-Will add a screenshot once it's live.
+<img width="1920" height="6306" alt="screencapture-127-0-0-1-5500-index-html-2026-09-29-01_27_44" src="https://github.com/user-attachments/assets/f81416e3-41bc-4c12-8ddb-f5ad27abea50" />
 
 ## Running it locally
 
